@@ -8,7 +8,7 @@ blog_app:
 github_deploy:
         class: Statocles::Deploy::Git
         args:
-            branch: statocles
+            branch: gh-pages
 
 site:
         class: Statocles::Site
