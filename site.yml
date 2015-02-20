@@ -1,0 +1,26 @@
+# site.yml
+blog_app:
+        class: Statocles::App::Blog
+        args:
+            url_root: /blog
+            store: 'blog'
+
+github_deploy:
+        class: Statocles::Deploy::Git
+        args:
+            branch: gh-pages
+
+site:
+        class: Statocles::Site
+        args:
+            apps:
+                blog:
+                    $ref: blog_app
+            deploy:
+                $ref: github_deploy
+            title: My Site
+            index: blog
+            nav:
+                main:
+                    - title: Blog
+                      href: /
