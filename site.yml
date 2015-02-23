@@ -18,9 +18,9 @@ site:
                     $ref: blog_app
             deploy:
                 $ref: github_deploy
-            title: My Site
+            title: IoT for YOU 
             index: blog
             nav:
                 main:
-                    - title: Blog
+                    - title: IoT for YOU (Blog)
                       href: /
