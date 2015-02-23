@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>IoT for YOU</title>
+        <link>/blog/tag/wikipedia</link>
+        <atom:link href="/blog/tag/wikipedia.rss" rel="self" type="application/rss+xml" />
+        <description>Blog feed of IoT for YOU</description>
+        <generator>Statocles 0.038</generator>
+        <item>
+            <title>Начало</title>
+            <link>/blog/2015/02/23/initiate.html</link>
+            <guid>/blog/2015/02/23/initiate.html</guid>
+            <description><![CDATA[
+                <p>Первая запись в этом блоге, поэтому немного расскажу о том как я его вижу. Думаю на первых порах это будет "линкблог" в котором я буду собирать интересные мне ссылку по теме "Интернет вещей" (internet of things). Ссылки постараюсь разбавлять статьями/описаниями наиболее понравившихся вещей/идей по тематике IoT (а может и не только). У данного блога есть twitter: <a href="http://twitter.com/iot4u_ru">iot4u_ru</a>. А свои интересные идеи/статьи/ссылки можно присылать pull request'ами на <a href="https://github.com/iot4u/iot4u.github.io">github</a> или на почту: <a href="mailto:iot4u@ya.ru">iot4u@ya.ru</a></p>
+
+<p>И для затравки:</p>
+
+<p>Интернет вещей (англ. Internet of Things, IoT) — концепция вычислительной сети физических объектов («вещей»), оснащённых встроенными технологиями для взаимодействия друг с другом или с внешней средой, рассматривающая организацию таких сетей как явление, способное перестроить экономические и общественные процессы, исключающее из части действий и операций необходимость участия человека.(<a href="https://ru.wikipedia.org/wiki/%C8%ED%F2%E5%F0%ED%E5%F2_%E2%E5%F9%E5%E9">wikipedia</a>)</p>
+
+                    <p><a href="/blog/2015/02/23/initiate.html#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="/blog/tag/initiate">initiate</a>
+                    <a href="/blog/tag/iot">iot</a>
+                    <a href="/blog/tag/wikipedia">wikipedia</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Mon, 23 Feb 2015 23:04:43 +0000
+            </pubDate>
+        </item>
+    </channel>
+</rss>
+
