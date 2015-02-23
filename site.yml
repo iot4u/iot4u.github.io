@@ -22,5 +22,5 @@ site:
             index: blog
             nav:
                 main:
-                    - title: IoT for YOU (Blog)
+                    - title: Blog
                       href: /
