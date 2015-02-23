@@ -18,6 +18,7 @@ site:
                     $ref: blog_app
             deploy:
                 $ref: github_deploy
+            theme: site/theme
             title: IoT for YOU 
             index: blog
             nav:
