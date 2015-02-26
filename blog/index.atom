@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>/</id>
     <title>IoT for YOU</title>
-    <updated>2015-02-26T23:01:54Z</updated>
+    <updated>2015-02-26T23:04:19Z</updated>
     <link rel="self" href="/blog/index.atom"/>
     <link rel="alternate" href="/"/>
     <generator version="0.038">Statocles</generator>
