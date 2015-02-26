@@ -1,17 +1,17 @@
 <?xml version="1.0"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>/blog/tag/forecast</id>
-    <title>IoT for YOU</title>
-    <updated>2015-02-26T23:01:55Z</updated>
-    <link rel="self" href="/blog/tag/forecast.atom"/>
-    <link rel="alternate" href="/blog/tag/forecast"/>
-    <generator version="0.038">Statocles</generator>
-    <entry>
-        <id>/blog/2015/02/24/chips.html</id>
-        <title>Чипы</title>
-        <link rel="alternate" href="/blog/2015/02/24/chips.html" />
-        <content type="html"><![CDATA[
-            <p><center>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>IoT for YOU</title>
+        <link>/blog/tag/чип</link>
+        <atom:link href="/blog/tag/чип.rss" rel="self" type="application/rss+xml" />
+        <description>Blog feed of IoT for YOU</description>
+        <generator>Statocles 0.038</generator>
+        <item>
+            <title>Чипы</title>
+            <link>/blog/2015/02/24/chips.html</link>
+            <guid>/blog/2015/02/24/chips.html</guid>
+            <description><![CDATA[
+                <p><center>
 <a href="http://iotconf.ru"><img src="http://s1.postimg.org/z2arfjn6n/940803.jpg" alt="Internet of Things" /></a>
 </center></p>
 
@@ -21,21 +21,19 @@
 <li><p>На <a href="http://habrahabr.ru/post/251299/">хабре</a> появилась статья о том как habrauser <a href="http://habrahabr.ru/users/manusovich">manusovich</a> собрал лампу, показывающую погоду. Завараживающее зрелище.</p></li>
 </ul>
 
-                <p><a href="/blog/2015/02/24/chips.html#section-2">Continue reading...</a></p>
-            <p>Tags:
-                <a href="/blog/tag/чип">чип</a>
-                <a href="/blog/tag/лк">лк</a>
-                <a href="/blog/tag/DIY">DIY</a>
-                <a href="/blog/tag/forecast">forecast</a>
-                <a href="/blog/tag/conference">conference</a>
-            </p>
-        ]]></content>
-        <updated>2015-02-24T23:02:45Z</updated>
-        <category term="чип" />
-        <category term="лк" />
-        <category term="DIY" />
-        <category term="forecast" />
-        <category term="conference" />
-    </entry>
-</feed>
+                    <p><a href="/blog/2015/02/24/chips.html#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="/blog/tag/чип">чип</a>
+                    <a href="/blog/tag/лк">лк</a>
+                    <a href="/blog/tag/DIY">DIY</a>
+                    <a href="/blog/tag/forecast">forecast</a>
+                    <a href="/blog/tag/conference">conference</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Tue, 24 Feb 2015 23:02:45 +0000
+            </pubDate>
+        </item>
+    </channel>
+</rss>
 

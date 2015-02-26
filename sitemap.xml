@@ -7,25 +7,19 @@
         <lastmod>2015-02-24</lastmod>
     </url>
     <url>
-        <loc>/blog/tag/wikipedia</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.3</priority>
-        <lastmod>2015-02-23</lastmod>
-    </url>
-    <url>
-        <loc>/blog/tag/initiate</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.3</priority>
-        <lastmod>2015-02-23</lastmod>
-    </url>
-    <url>
         <loc>/blog/tag/iot</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
         <lastmod>2015-02-23</lastmod>
     </url>
     <url>
-        <loc>/blog/tag/forecast</loc>
+        <loc>/blog/tag/чип</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2015-02-24</lastmod>
+    </url>
+    <url>
+        <loc>/blog/tag/conference</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
         <lastmod>2015-02-24</lastmod>
@@ -43,16 +37,22 @@
         <lastmod>2015-02-24</lastmod>
     </url>
     <url>
-        <loc>/blog/tag/conference</loc>
+        <loc>/blog/tag/forecast</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
         <lastmod>2015-02-24</lastmod>
     </url>
     <url>
-        <loc>/blog/tag/чип</loc>
+        <loc>/blog/tag/initiate</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2015-02-24</lastmod>
+        <lastmod>2015-02-23</lastmod>
+    </url>
+    <url>
+        <loc>/blog/tag/wikipedia</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2015-02-23</lastmod>
     </url>
     <url>
         <loc>/blog/2015/02/24/chips.html</loc>

@@ -1,10 +1,10 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>/blog/tag/forecast</id>
+    <id>/blog/tag/чип</id>
     <title>IoT for YOU</title>
-    <updated>2015-02-26T23:01:55Z</updated>
-    <link rel="self" href="/blog/tag/forecast.atom"/>
-    <link rel="alternate" href="/blog/tag/forecast"/>
+    <updated>2015-02-24T23:41:32Z</updated>
+    <link rel="self" href="/blog/tag/чип.atom"/>
+    <link rel="alternate" href="/blog/tag/чип"/>
     <generator version="0.038">Statocles</generator>
     <entry>
         <id>/blog/2015/02/24/chips.html</id>
