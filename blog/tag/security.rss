@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>IoT for YOU</title>
+        <link>/blog/tag/security</link>
+        <atom:link href="/blog/tag/security.rss" rel="self" type="application/rss+xml" />
+        <description>Blog feed of IoT for YOU</description>
+        <generator>Statocles 0.038</generator>
+        <item>
+            <title>Безопасность</title>
+            <link>/blog/2015/03/01/secutiry.html</link>
+            <guid>/blog/2015/03/01/secutiry.html</guid>
+            <description><![CDATA[
+                <p><center>
+<img src="http://www.designerspics.com/wp-content/uploads/2014/06/LOCK_free_photo.jpg"  alt="Internet of Things security"/>
+</center></p>
+
+<ul>
+<li><p>На прошедшем <a href="http://www.meetup.com/OWASP-Russia/">OWASP RUSSIA</a> Иван (<a href="http://twitter.com/d0zenpp">@d0znpp</a>) Новиков рассказал про уязвимости в доступных сейчас IoT устройствах. Презентация уже доступна на <a href="http://www.slideshare.net/OWASP-Russia/22-hacking-internet-of-things-devices">slideshare</a>.</p></li>
+<li><p>Canonical <a href="http://ko.com.ua/canonical_anonsirovala_shirokuyu_programmu_sotrudnichestva_s_industriej_iot_109347">аносировала</a> несколько партнерских программ с производителями сетевых устройств. Хотят вместе противостоять угрозам безопасности в сфере IoT.</p></li>
+<li><p><a href="https://gigaom.com/2015/02/24/chip-firms-put-security-center-stage-for-the-internet-of-things/">Gigaom пишит</a> о том что уже и производители чипов задумываются о необходимости повышения безопасности IoT устройств.</p></li>
+</ul>
+
+                    <p><a href="/blog/2015/03/01/secutiry.html#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="/blog/tag/owasp">owasp</a>
+                    <a href="/blog/tag/Canonical">Canonical</a>
+                    <a href="/blog/tag/gigaom">gigaom</a>
+                    <a href="/blog/tag/security">security</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Sun, 01 Mar 2015 22:40:13 +0000
+            </pubDate>
+        </item>
+    </channel>
+</rss>
+
