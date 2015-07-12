@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>IoT for YOU</title>
+        <link>/blog/tag/Linux</link>
+        <atom:link href="/blog/tag/Linux.rss" rel="self" type="application/rss+xml" />
+        <description>Blog feed of IoT for YOU</description>
+        <generator>Statocles 0.038</generator>
+        <item>
+            <title>OpenHAB. Часть#1</title>
+            <link>/blog/2015/07/13/openhab-install.html</link>
+            <guid>/blog/2015/07/13/openhab-install.html</guid>
+            <description><![CDATA[
+                <p><center>
+<img src="http://www.openhab.org/images/openhab-logo-square.png" alt="openhab" />
+</center></p>
+
+<p><strong>*Что-то давно ничего не происходило в этом блоге. Исправляю.*</strong></p>
+
+<p>Пришло время осветить одно из программных решений в области IoT.
+Встречайте: <a href="http://www.openhab.org/">OpenHAB</a> - Open Home Automation Bus - само
+название подразумевает, что данное решение предполагается использовать для
+интерграции различных устройств в единое пространство, при постронии домашней(и не только)
+"сети".</p>
+
+<p>Если коротко описывать OpenHAB то стоит сказать, что это написанное на Java, полностью opensource программное решение, в основе которого лежит OSGI расширяемая архитектура( если вы понимаете о чем я ... :-) ) Весь кода лежит на <a href="https://github.com/openhab/openhab">github</a>.</p>
+
+<p>Уже идет разработка OpenHAB2, но и первая версия не стоит на месте и освещать я буду именно её.
+В первой части я расскажу как запустить OpenHAB на linux системе в demo режиме, чтобы можно было попробовать как это все выглядит.</p>
+
+<p>Вот что нам предстоит сделать:<br/>
+0. Скачивание и установка jdk<br/>
+1. Создание нового пользователя<br/>
+2. Скачивание и распаковка openhab-runtime<br/>
+3. Скачивание и распаковка openhab-demo<br/>
+4. Создание конфигурационного файла<br/>
+5. Первый запуск<br/></p>
+
+<p>И так:</p>
+
+                    <p><a href="/blog/2015/07/13/openhab-install.html#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="/blog/tag/OpenHAB">OpenHAB</a>
+                    <a href="/blog/tag/Java">Java</a>
+                    <a href="/blog/tag/Raspberry-Pi">Raspberry Pi</a>
+                    <a href="/blog/tag/Linux">Linux</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Mon, 13 Jul 2015 00:39:04 +0000
+            </pubDate>
+        </item>
+    </channel>
+</rss>
+

@@ -4,7 +4,7 @@
         <loc>/</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2015-03-01</lastmod>
+        <lastmod>2015-07-13</lastmod>
     </url>
     <url>
         <loc>/blog/tag/security</loc>
@@ -13,31 +13,49 @@
         <lastmod>2015-03-01</lastmod>
     </url>
     <url>
+        <loc>/blog/tag/gigaom</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2015-03-01</lastmod>
+    </url>
+    <url>
+        <loc>/blog/tag/wikipedia</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2015-02-23</lastmod>
+    </url>
+    <url>
+        <loc>/blog/tag/Java</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2015-07-13</lastmod>
+    </url>
+    <url>
+        <loc>/blog/tag/Raspberry-Pi</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2015-07-13</lastmod>
+    </url>
+    <url>
         <loc>/blog/tag/owasp</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
         <lastmod>2015-03-01</lastmod>
     </url>
     <url>
-        <loc>/blog/tag/чип</loc>
+        <loc>/blog/tag/conference</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
         <lastmod>2015-02-24</lastmod>
     </url>
     <url>
-        <loc>/blog/tag/iot</loc>
+        <loc>/blog/tag/лк</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2015-02-23</lastmod>
+        <lastmod>2015-02-24</lastmod>
     </url>
     <url>
-        <loc>/blog/tag/initiate</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.3</priority>
-        <lastmod>2015-02-23</lastmod>
-    </url>
-    <url>
-        <loc>/blog/tag/conference</loc>
+        <loc>/blog/tag/чип</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
         <lastmod>2015-02-24</lastmod>
@@ -49,22 +67,10 @@
         <lastmod>2015-02-24</lastmod>
     </url>
     <url>
-        <loc>/blog/tag/Canonical</loc>
+        <loc>/blog/tag/Linux</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
-        <lastmod>2015-03-01</lastmod>
-    </url>
-    <url>
-        <loc>/blog/tag/лк</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.3</priority>
-        <lastmod>2015-02-24</lastmod>
-    </url>
-    <url>
-        <loc>/blog/tag/gigaom</loc>
-        <changefreq>daily</changefreq>
-        <priority>0.3</priority>
-        <lastmod>2015-03-01</lastmod>
+        <lastmod>2015-07-13</lastmod>
     </url>
     <url>
         <loc>/blog/tag/forecast</loc>
@@ -73,7 +79,25 @@
         <lastmod>2015-02-24</lastmod>
     </url>
     <url>
-        <loc>/blog/tag/wikipedia</loc>
+        <loc>/blog/tag/OpenHAB</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2015-07-13</lastmod>
+    </url>
+    <url>
+        <loc>/blog/tag/Canonical</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2015-03-01</lastmod>
+    </url>
+    <url>
+        <loc>/blog/tag/iot</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.3</priority>
+        <lastmod>2015-02-23</lastmod>
+    </url>
+    <url>
+        <loc>/blog/tag/initiate</loc>
         <changefreq>daily</changefreq>
         <priority>0.3</priority>
         <lastmod>2015-02-23</lastmod>
@@ -95,5 +119,11 @@
         <changefreq>weekly</changefreq>
         <priority>0.5</priority>
         <lastmod>2015-03-01</lastmod>
+    </url>
+    <url>
+        <loc>/blog/2015/07/13/openhab-install.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+        <lastmod>2015-07-13</lastmod>
     </url>
 </urlset>
