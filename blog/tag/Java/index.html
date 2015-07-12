@@ -5,8 +5,8 @@
         <link rel="stylesheet" href="/theme/css/skeleton.css" />
         <link rel="stylesheet" href="/theme/css/statocles-default.css" />
         <title>IoT for YOU</title>
-        <link rel="alternate" href="/blog/tag/initiate.atom" type="application/atom+xml" />
-        <link rel="alternate" href="/blog/tag/initiate.rss" type="application/rss+xml" />
+        <link rel="alternate" href="/blog/tag/Java.atom" type="application/atom+xml" />
+        <link rel="alternate" href="/blog/tag/Java.rss" type="application/rss+xml" />
         <meta name='yandex-verification' content='5d68050fa82c3004' />
 
     </head>
@@ -33,30 +33,53 @@
 
             <article>
                 <header>
-                    <h1><a href="/blog/2015/02/23/initiate.html">Начало</a></h1>
+                    <h1><a href="/blog/2015/07/13/openhab-install.html">OpenHAB. Часть#1</a></h1>
 
                     <p class="tags">Tags:
-                        <a href="/blog/tag/initiate" rel="tag">initiate</a>
-                        <a href="/blog/tag/iot" rel="tag">iot</a>
-                        <a href="/blog/tag/wikipedia" rel="tag">wikipedia</a>
+                        <a href="/blog/tag/OpenHAB" rel="tag">OpenHAB</a>
+                        <a href="/blog/tag/Java" rel="tag">Java</a>
+                        <a href="/blog/tag/Raspberry-Pi" rel="tag">Raspberry Pi</a>
+                        <a href="/blog/tag/Linux" rel="tag">Linux</a>
                     </p>
 
                     <aside>
-                        <p><time datetime="2015-02-23">
-                            Posted on 2015-02-23
+                        <p><time datetime="2015-07-13">
+                            Posted on 2015-07-13
                         </time>
                         </p>
                     </aside>
 
                 </header>
 
-                <p>Первая запись в этом блоге, поэтому немного расскажу о том как я его вижу. Думаю на первых порах это будет "линкблог" в котором я буду собирать интересные мне ссылку по теме "Интернет вещей" (internet of things). Ссылки постараюсь разбавлять статьями/описаниями наиболее понравившихся вещей/идей по тематике IoT (а может и не только). У данного блога есть twitter: <a href="http://twitter.com/iot4u_ru">iot4u_ru</a>. А свои интересные идеи/статьи/ссылки можно присылать pull request'ами на <a href="https://github.com/iot4u/iot4u.github.io">github</a> или на почту: <a href="mailto:iot4u@ya.ru">iot4u@ya.ru</a></p>
+                <p><center>
+<img src="http://www.openhab.org/images/openhab-logo-square.png" alt="openhab" />
+</center></p>
 
-<p>И для затравки:</p>
+<p><strong>*Что-то давно ничего не происходило в этом блоге. Исправляю.*</strong></p>
 
-<p>Интернет вещей (англ. Internet of Things, IoT) — концепция вычислительной сети физических объектов («вещей»), оснащённых встроенными технологиями для взаимодействия друг с другом или с внешней средой, рассматривающая организацию таких сетей как явление, способное перестроить экономические и общественные процессы, исключающее из части действий и операций необходимость участия человека.(<a href="https://ru.wikipedia.org/wiki/%C8%ED%F2%E5%F0%ED%E5%F2_%E2%E5%F9%E5%E9">wikipedia</a>)</p>
+<p>Пришло время осветить одно из программных решений в области IoT.
+Встречайте: <a href="http://www.openhab.org/">OpenHAB</a> - Open Home Automation Bus - само
+название подразумевает, что данное решение предполагается использовать для
+интерграции различных устройств в единое пространство, при постронии домашней(и не только)
+"сети".</p>
+
+<p>Если коротко описывать OpenHAB то стоит сказать, что это написанное на Java, полностью opensource программное решение, в основе которого лежит OSGI расширяемая архитектура( если вы понимаете о чем я ... :-) ) Весь кода лежит на <a href="https://github.com/openhab/openhab">github</a>.</p>
+
+<p>Уже идет разработка OpenHAB2, но и первая версия не стоит на месте и освещать я буду именно её.
+В первой части я расскажу как запустить OpenHAB на linux системе в demo режиме, чтобы можно было попробовать как это все выглядит.</p>
+
+<p>Вот что нам предстоит сделать:<br/>
+0. Скачивание и установка jdk<br/>
+1. Создание нового пользователя<br/>
+2. Скачивание и распаковка openhab-runtime<br/>
+3. Скачивание и распаковка openhab-demo<br/>
+4. Создание конфигурационного файла<br/>
+5. Первый запуск<br/></p>
+
+<p>И так:</p>
 
 
+                    <p><a href="/blog/2015/07/13/openhab-install.html#section-2">Continue reading OpenHAB. Часть#1...</a></p>
 
             </article>
         </main>
@@ -104,12 +127,12 @@
         <h1>Feeds</h1>
         <ul class="list-inline">
             <li>
-                <a href="/blog/tag/initiate.atom" rel="alternate" type="application/atom+xml">
+                <a href="/blog/tag/Java.atom" rel="alternate" type="application/atom+xml">
                     Atom
                 </a>
             </li>
             <li>
-                <a href="/blog/tag/initiate.rss" rel="alternate" type="application/rss+xml">
+                <a href="/blog/tag/Java.rss" rel="alternate" type="application/rss+xml">
                     RSS
                 </a>
             </li>
