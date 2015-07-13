@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>IoT for YOU</title>
+        <link>/blog/tag/Google-Play</link>
+        <atom:link href="/blog/tag/Google-Play.rss" rel="self" type="application/rss+xml" />
+        <description>Blog feed of IoT for YOU</description>
+        <generator>Statocles 0.038</generator>
+        <item>
+            <title>OpenHAB. Часть #1 (bonus track)</title>
+            <link>/blog/2015/07/13/openhab-Z-habdroid.html</link>
+            <guid>/blog/2015/07/13/openhab-Z-habdroid.html</guid>
+            <description><![CDATA[
+                <p>Для OpenHAB есть мобильное приложение для Android и IOS устройств. В этом дополнительном разделе первой части я расскажу как установить и настроить приложение OpenHAB для Android.</p>
+
+                    <p><a href="/blog/2015/07/13/openhab-Z-habdroid.html#section-2">Continue reading...</a></p>
+                <p>Tags:
+                    <a href="/blog/tag/OpenHAB">OpenHAB</a>
+                    <a href="/blog/tag/Android">Android</a>
+                    <a href="/blog/tag/IOS">IOS</a>
+                    <a href="/blog/tag/Google-Play">Google Play</a>
+                    <a href="/blog/tag/habdroid">habdroid</a>
+                </p>
+            ]]></description>
+            <pubDate>
+                Mon, 13 Jul 2015 17:08:53 +0000
+            </pubDate>
+        </item>
+    </channel>
+</rss>
+
