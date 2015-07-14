@@ -2,18 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>/blog/tag/Android</id>
     <title>IoT for YOU</title>
-    <updated>2015-07-13T17:15:42Z</updated>
+    <updated>2015-07-14T15:10:34Z</updated>
     <link rel="self" href="/blog/tag/Android.atom"/>
     <link rel="alternate" href="/blog/tag/Android"/>
     <generator version="0.038">Statocles</generator>
     <entry>
-        <id>/blog/2015/07/13/openhab-Z-habdroid.html</id>
+        <id>/blog/2015/07/14/openhab-habdroid.html</id>
         <title>OpenHAB. Часть #1 (bonus track)</title>
-        <link rel="alternate" href="/blog/2015/07/13/openhab-Z-habdroid.html" />
+        <link rel="alternate" href="/blog/2015/07/14/openhab-habdroid.html" />
         <content type="html"><![CDATA[
             <p>Для OpenHAB есть мобильное приложение для Android и IOS устройств. В этом дополнительном разделе первой части я расскажу как установить и настроить приложение OpenHAB для Android.</p>
 
-                <p><a href="/blog/2015/07/13/openhab-Z-habdroid.html#section-2">Continue reading...</a></p>
+                <p><a href="/blog/2015/07/14/openhab-habdroid.html#section-2">Continue reading...</a></p>
             <p>Tags:
                 <a href="/blog/tag/OpenHAB">OpenHAB</a>
                 <a href="/blog/tag/Android">Android</a>
