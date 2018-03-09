@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Google Play on IoT for YOU</title>
+    <link>http://iot4u.ru/tags/google-play/</link>
+    <description>Recent content in Google Play on IoT for YOU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Mon, 13 Jul 2015 17:08:53 +0300</lastBuildDate>
+    
+	<atom:link href="http://iot4u.ru/tags/google-play/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>OpenHAB. Часть №1 (bonus track)</title>
+      <link>http://iot4u.ru/2015/07/openhab.-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-bonus-track/</link>
+      <pubDate>Mon, 13 Jul 2015 17:08:53 +0300</pubDate>
+      
+      <guid>http://iot4u.ru/2015/07/openhab.-%D1%87%D0%B0%D1%81%D1%82%D1%8C-1-bonus-track/</guid>
+      <description>Для OpenHAB есть мобильное приложение для Android и IOS устройств. В этом дополнительном разделе первой части я расскажу как установить и настроить приложение OpenHAB для Android. Исходный код приложений для обеих платформ есть в github-репозитории проекта. Также приложение для Android доступно в Google Play. После установки на Вашем мобильном устройстве появится соответствующий значок.  
+При первом запуске приложение предупредит что будет использоваться самоподписанный сертификат.
+ 
+После Вашего согласия на использование сертификата приложение покажет вас состояние &amp;ldquo;Демо Дома&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conference on IoT for YOU</title>
+    <link>http://iot4u.ru/tags/conference/</link>
+    <description>Recent content in Conference on IoT for YOU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru</language>
+    <lastBuildDate>Tue, 24 Feb 2015 23:02:45 +0300</lastBuildDate>
+    
+	<atom:link href="http://iot4u.ru/tags/conference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Чипы</title>
+      <link>http://iot4u.ru/2015/02/%D1%87%D0%B8%D0%BF%D1%8B/</link>
+      <pubDate>Tue, 24 Feb 2015 23:02:45 +0300</pubDate>
+      
+      <guid>http://iot4u.ru/2015/02/%D1%87%D0%B8%D0%BF%D1%8B/</guid>
+      <description>С 12 по 14 марта 2015 года в Москве в КВЦ &amp;ldquo;Сокольники&amp;rdquo; пройдет преинтереснейшая конференция ИНТЕРНЕТ ВЕЩЕЙ (Internet of Things). Хоть конференция и отраслевая, будет много интересных докладчиков и стендов. Цена билета от 500 рублей.
+ &amp;ldquo;Меня очень волнует практически неизбежная в будущем синергия между живым организмом и компьютером&amp;rdquo; - сказал в своем интервью Евгений Черешнев (@cheresh) сотрудник Лаборатории Касперского. Зачем он это сделал, он кратко поведал Афише</description>
+    </item>
+    
+  </channel>
+</rss>
